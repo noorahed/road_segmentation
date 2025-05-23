@@ -1,2 +1,2 @@
-# road_segmentation
- 
+# Road_segmentation
+ This project implements a deep learning-based approach for road segmentation using high-resolution aerial imagery from Google Earth. A custom UNet architecture was developed and trained to accurately identify and segment road regions in satellite images. The solution leverages advanced preprocessing, data augmentation, and evaluation techniques to enhance model performance and generalization across diverse landscapes.
